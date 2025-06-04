@@ -5,7 +5,7 @@ Now, they want to build a model to predict the purchase amount of customer again
 
 
 What is Domain of this Dataset
-This Dataset belongs to Retail Domain.Retail data refers to any facts or figures that retailers can collect about their business, which they can use to improve it.
+This Dataset belongs to Retail Domain. Retail data refers to any facts or figures that retailers can collect about their business, which they can use to improve it.
 It comes in many different shapes and forms, including point of sales data, loyalty card data, and market data.
 
 
